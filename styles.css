@@ -1,0 +1,47 @@
+header {
+    text-align: center;
+}
+nav {
+    padding-left: 20px;
+    padding-top: 10px;
+    background-color: #0f1820;
+    border-color: #252e35; 
+    border-style: solid;
+    border-top: #0f1820;
+    
+}
+li {
+    font-size: 3rem;
+}
+div {
+    text-align: center;
+}
+
+p {
+    font-size: 4rem;
+}
+.image-wrapper {
+    text-align: left;
+}
+
+.about-me-title {
+    font-size: 5rem;
+    font-weight: normal;
+}
+
+.home-title {
+    font-size: 10rem;
+    font-weight: normal;
+}
+
+.card {
+    border-radius: 25px;
+    background-color: #324958;
+    text-align: center;
+}
+
+@media (max-width:992px) { 
+    .image-wrapper {
+        text-align: center;
+    }    
+}
